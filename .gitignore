@@ -1,0 +1,6 @@
+datasets/
+images/
+reports/
+.ipynb_checkpoints/
+*.png
+*.h5
